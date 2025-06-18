@@ -27,10 +27,10 @@ def diarize_and_transcribe(file_path: str) -> list:
     diarization = pipeline(mono_path)
     segments, _ = whisper_model.transcribe(mono_path, beam_size=5)
 
-    # Step 1: Map segment midpoints to speakers
-    speaker_turns = []  # ← This will be our final output list
+  
+    speaker_turns = [] 
 
-    # Step 1.1: Determine speaker order
+
     speaker_first_spoken = {}
     for turn, _, speaker in diarization.itertracks(yield_label=True):
         speaker_str = str(speaker)
@@ -40,7 +40,7 @@ def diarize_and_transcribe(file_path: str) -> list:
     ordered_speakers = [s for s, _ in sorted(speaker_first_spoken.items(), key=lambda x: x[1])]
     speaker_labels = {ordered_speakers[0]: "Agent", ordered_speakers[1]: "Customer"}
 
-    # Step 2: Align Whisper segments to speaker turns
+
     for segment in segments:
         seg_start, seg_end = segment.start, segment.end
         text = segment.text.strip()
@@ -58,7 +58,7 @@ def diarize_and_transcribe(file_path: str) -> list:
 })
                 break
 
-    # Step 3: Save JSON to output/
+
     os.makedirs("output", exist_ok=True)
     file_path = f"output/transcript_{int(time.time())}.json"
     with open(file_path, "w") as f:
