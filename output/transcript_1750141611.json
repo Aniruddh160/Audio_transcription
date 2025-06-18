@@ -1,0 +1,506 @@
+[
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:48:13.077 to 2025-06-17T11:48:18.357",
+        "complete_trans": "Well, I have some time off from work this month and I was thinking of going to Singapore.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:18.357 to 2025-06-17T11:48:19.677",
+        "complete_trans": "That sound great.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:19.677 to 2025-06-17T11:48:21.837",
+        "complete_trans": "How long is your vacation?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:21.837 to 2025-06-17T11:48:23.037",
+        "complete_trans": "Just one week.",
+        "sentiment": "urgency"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:23.037 to 2025-06-17T11:48:25.037",
+        "complete_trans": "Here's our Singapore brochure.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:25.037 to 2025-06-17T11:48:26.877",
+        "complete_trans": "We will arrange everything.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:26.877 to 2025-06-17T11:48:28.637",
+        "complete_trans": "Oh great.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:28.637 to 2025-06-17T11:48:31.637",
+        "complete_trans": "Have a look and see if there's a hotel you like.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:31.637 to 2025-06-17T11:48:33.637",
+        "complete_trans": "I like Hotel Hilton.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:33.637 to 2025-06-17T11:48:36.437",
+        "complete_trans": "It's expensive but I've been told it's very nice.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:48:36.437 to 2025-06-17T11:48:38.837",
+        "complete_trans": "I'm looking for beach view accommodation.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:38.837 to 2025-06-17T11:48:44.837",
+        "complete_trans": "Yes, some accommodations, we have recently prepared an amazing package for that.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:48:44.837 to 2025-06-17T11:48:47.437",
+        "complete_trans": "Could you please tell me the details of that package?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:47.437 to 2025-06-17T11:48:48.637",
+        "complete_trans": "Sure ma'am.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:48.637 to 2025-06-17T11:48:52.437",
+        "complete_trans": "In that package, you will get four nights and three days.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:48:58.437 to 2025-06-17T11:49:00.437",
+        "complete_trans": "Would you like to make the booking now?",
+        "sentiment": "urgency"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:00.437 to 2025-06-17T11:49:01.437",
+        "complete_trans": "Yes please.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:01.437 to 2025-06-17T11:49:04.437",
+        "complete_trans": "I just need to take some personal information.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:04.437 to 2025-06-17T11:49:07.437",
+        "complete_trans": "May I know your name?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:07.437 to 2025-06-17T11:49:09.437",
+        "complete_trans": "My name is Stella.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:09.437 to 2025-06-17T11:49:11.437",
+        "complete_trans": "And your address?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:11.437 to 2025-06-17T11:49:13.437",
+        "complete_trans": "Number eight Pike Street, Seattle.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:13.437 to 2025-06-17T11:49:15.437",
+        "complete_trans": "And your phone number?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:15.437 to 2025-06-17T11:49:22.437",
+        "complete_trans": "Four two five million three hundred and thirty six thousand seven hundred and seventy six.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:22.437 to 2025-06-17T11:49:24.437",
+        "complete_trans": "Will you be traveling alone?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:24.437 to 2025-06-17T11:49:26.437",
+        "complete_trans": "I'm traveling with my husband.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:26.437 to 2025-06-17T11:49:29.437",
+        "complete_trans": "Shall I book your ticket on January 28th?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:32.437 to 2025-06-17T11:49:33.437",
+        "complete_trans": "All right.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:33.437 to 2025-06-17T11:49:35.437",
+        "complete_trans": "This package is valid till when?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:35.437 to 2025-06-17T11:49:36.437",
+        "complete_trans": "For two month.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:36.437 to 2025-06-17T11:49:37.437",
+        "complete_trans": "Great.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:37.437 to 2025-06-17T11:49:39.437",
+        "complete_trans": "What are all formalities needed to be done?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:39.437 to 2025-06-17T11:49:45.437",
+        "complete_trans": "You have to pay two hundred dollars with a copy of your proof and photograph.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:45.437 to 2025-06-17T11:49:48.437",
+        "complete_trans": "Is there a nonstop flight that I can take?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:48.437 to 2025-06-17T11:49:55.437",
+        "complete_trans": "Yes, speed airways that flight departs at six p.m. on Saturday morning and arrives at Singapore three p.m.",
+        "sentiment": "urgency"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:49:56.437 to 2025-06-17T11:49:59.437",
+        "complete_trans": "That sounds better but it's a little longer.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:49:59.437 to 2025-06-17T11:50:01.437",
+        "complete_trans": "Well, it's an eight hours long flight.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:01.437 to 2025-06-17T11:50:03.437",
+        "complete_trans": "Don't forget the time difference.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:03.437 to 2025-06-17T11:50:07.437",
+        "complete_trans": "Oh, yes, that's right.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:07.437 to 2025-06-17T11:50:09.437",
+        "complete_trans": "Shall I reserve a seat for you?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:09.437 to 2025-06-17T11:50:10.437",
+        "complete_trans": "Yes, please.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:10.437 to 2025-06-17T11:50:12.437",
+        "complete_trans": "How can I make the payment?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:12.437 to 2025-06-17T11:50:15.437",
+        "complete_trans": "You can pay by card, cash or check.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:15.437 to 2025-06-17T11:50:19.437",
+        "complete_trans": "Is it possible that I can pay online?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:19.437 to 2025-06-17T11:50:21.437",
+        "complete_trans": "You can do that as well.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:22.437 to 2025-06-17T11:50:25.437",
+        "complete_trans": "Just send me your count details via WhatsApp.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:26.437 to 2025-06-17T11:50:28.437",
+        "complete_trans": "When would you like to return?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:28.437 to 2025-06-17T11:50:30.437",
+        "complete_trans": "February 4th.",
+        "sentiment": "urgency"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:30.437 to 2025-06-17T11:50:33.437",
+        "complete_trans": "Do you have an airline preference?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:33.437 to 2025-06-17T11:50:34.437",
+        "complete_trans": "No.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:34.437 to 2025-06-17T11:50:36.437",
+        "complete_trans": "Any airline will be fine.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:36.437 to 2025-06-17T11:50:37.437",
+        "complete_trans": "I'm not picky.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:37.437 to 2025-06-17T11:50:39.437",
+        "complete_trans": "And what class would you like?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:39.437 to 2025-06-17T11:50:44.437",
+        "complete_trans": "Economy, business class, or first class?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:44.437 to 2025-06-17T11:50:47.437",
+        "complete_trans": "Economy, please.",
+        "sentiment": "urgency"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:48.437 to 2025-06-17T11:50:51.437",
+        "complete_trans": "Okay, well there's a flight on the morning of the 4th.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:50:51.437 to 2025-06-17T11:50:55.437",
+        "complete_trans": "The cheapest we have is $700.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:55.437 to 2025-06-17T11:50:58.437",
+        "complete_trans": "Vouch, I was hoping to find something cheaper.",
+        "sentiment": "frustration"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:58.437 to 2025-06-17T11:50:59.437",
+        "complete_trans": "My dates are flexible.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:50:59.437 to 2025-06-17T11:51:02.437",
+        "complete_trans": "Do you find a cheaper flight?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:02.437 to 2025-06-17T11:51:03.437",
+        "complete_trans": "Let me check.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:03.437 to 2025-06-17T11:51:04.437",
+        "complete_trans": "Just a moment.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:04.437 to 2025-06-17T11:51:09.437",
+        "complete_trans": "There's a flight on the February 10th for $120.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:09.437 to 2025-06-17T11:51:11.437",
+        "complete_trans": "That's much better.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:11.437 to 2025-06-17T11:51:16.437",
+        "complete_trans": "But you have to change planes twice once in Texas and again in London.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:16.437 to 2025-06-17T11:51:19.437",
+        "complete_trans": "Is that the best you can do?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:19.437 to 2025-06-17T11:51:20.437",
+        "complete_trans": "I'm afraid so.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:20.437 to 2025-06-17T11:51:24.437",
+        "complete_trans": "If you'd like, I can book the ticket and seat as well.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:51:28.437 to 2025-06-17T11:51:31.437",
+        "complete_trans": "Can you tell me your email id?",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:51:31.437 to 2025-06-17T11:51:33.437",
+        "complete_trans": "Stellaratemail.com.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:51:33.437 to 2025-06-17T11:51:35.437",
+        "complete_trans": "You would receive the eTicket's details.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:35.437 to 2025-06-17T11:51:37.437",
+        "complete_trans": "Perfect, thank you.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:37.437 to 2025-06-17T11:51:39.437",
+        "complete_trans": "It includes your flight confirmation number.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:39.437 to 2025-06-17T11:51:43.437",
+        "complete_trans": "When you check in at the airport, they will ask you to confirm the code.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:51:44.437 to 2025-06-17T11:51:49.437",
+        "complete_trans": "Okay, in case if I need to cancel the ticket, to whom should I contact?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:49.437 to 2025-06-17T11:51:52.437",
+        "complete_trans": "You need to contact us or Airways toll free number.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:51:52.437 to 2025-06-17T11:51:57.437",
+        "complete_trans": "All right, would I get refund if I cancel the ticket?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:51:57.437 to 2025-06-17T11:52:03.437",
+        "complete_trans": "No, you won't get refund but I can give you the voucher.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T11:52:03.437 to 2025-06-17T11:52:05.437",
+        "complete_trans": "How long that voucher valid?",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:52:05.437 to 2025-06-17T11:52:09.437",
+        "complete_trans": "One year validity, you can travel any destination.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:52:09.437 to 2025-06-17T11:52:10.437",
+        "complete_trans": "Oh great.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:52:10.437 to 2025-06-17T11:52:19.437",
+        "complete_trans": "Due to pandemic travel destination requirements could affect your travel plan, we advise customers to check the email notifications always.",
+        "sentiment": "helpfulness"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:52:19.437 to 2025-06-17T11:52:22.437",
+        "complete_trans": "Sure for all due, thank you.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T11:52:22.437 to 2025-06-17T11:52:26.437",
+        "complete_trans": "Have a wonderful journey, thank you for choosing us.",
+        "sentiment": "helpfulness"
+    }
+]

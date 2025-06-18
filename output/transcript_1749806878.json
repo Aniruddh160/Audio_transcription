@@ -1,0 +1,12 @@
+[
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-13T14:57:15.716 to 2025-06-13T14:57:20.356",
+        "complete_trans": "What is the best advice you've ever had or received from my father?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-13T14:57:20.356 to 2025-06-13T14:57:24.036",
+        "complete_trans": "I'd rather be stupid than pretend to be intelligent."
+    }
+]

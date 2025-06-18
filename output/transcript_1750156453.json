@@ -1,0 +1,506 @@
+[
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:49:37.893 to 2025-06-17T15:49:43.173",
+        "complete_trans": "Well, I have some time off from work this month and I was thinking of going to Singapore.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:43.173 to 2025-06-17T15:49:44.493",
+        "complete_trans": "That sound great.",
+        "sentiment": "the utterance, \"that sounds great,\" falls under the category of \"satisfaction\"."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:44.493 to 2025-06-17T15:49:46.653",
+        "complete_trans": "How long is your vacation?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:46.653 to 2025-06-17T15:49:47.853",
+        "complete_trans": "Just one week.",
+        "sentiment": "the provided utterance, \"just one week,\" can be classified as neutral. it doesn't contain explicit signs of satisfaction, frustration, confusion, or urgency in this context. however, it's important to note that tone and context play significant roles in understanding the sentiment behind a statement. this utterance is typically used to express optimism about a situation's resolution, but without additional information, it cannot be definitively labeled as 'satisfaction'."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:47.853 to 2025-06-17T15:49:49.853",
+        "complete_trans": "Here's our Singapore brochure.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:49.853 to 2025-06-17T15:49:51.693",
+        "complete_trans": "We will arrange everything.",
+        "sentiment": "the provided utterance falls under the category of 'satisfaction'."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:51.693 to 2025-06-17T15:49:53.453",
+        "complete_trans": "Oh great.",
+        "sentiment": "the utterance \"oh great.\" can be classified as a neutral or possibly slight frustration statement, depending on the tone and context in which it was said. however, without additional information, it's difficult to definitively classify it into one specific category."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:53.453 to 2025-06-17T15:49:56.453",
+        "complete_trans": "Have a look and see if there's a hotel you like.",
+        "sentiment": "the utterance \"have a look and see if there's a hotel you like\" is classified as neutral. it does not express any strong emotions or urgency, but instead, it suggests inquiry."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:56.453 to 2025-06-17T15:49:58.453",
+        "complete_trans": "I like Hotel Hilton.",
+        "sentiment": "the utterance \"i like hotel hilton\" falls under the category of satisfaction."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:49:58.453 to 2025-06-17T15:50:01.253",
+        "complete_trans": "It's expensive but I've been told it's very nice.",
+        "sentiment": "the utterance is classified as 'satisfaction'."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:01.253 to 2025-06-17T15:50:03.653",
+        "complete_trans": "I'm looking for beach view accommodation.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:03.653 to 2025-06-17T15:50:09.653",
+        "complete_trans": "Yes, some accommodations, we have recently prepared an amazing package for that.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:09.653 to 2025-06-17T15:50:12.253",
+        "complete_trans": "Could you please tell me the details of that package?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:12.253 to 2025-06-17T15:50:13.453",
+        "complete_trans": "Sure ma'am.",
+        "sentiment": "the utterance \"sure ma'am\" is a neutral statement. it does not convey any specific emotion or sentiment."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:13.453 to 2025-06-17T15:50:17.253",
+        "complete_trans": "In that package, you will get four nights and three days.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:23.253 to 2025-06-17T15:50:25.253",
+        "complete_trans": "Would you like to make the booking now?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:25.253 to 2025-06-17T15:50:26.253",
+        "complete_trans": "Yes please.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:26.253 to 2025-06-17T15:50:29.253",
+        "complete_trans": "I just need to take some personal information.",
+        "sentiment": "the provided utterance can be classified as 'neutral'. it doesn't express any particular emotion or level of satisfaction, frustration, confusion, etc. in this instance."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:29.253 to 2025-06-17T15:50:32.253",
+        "complete_trans": "May I know your name?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:32.253 to 2025-06-17T15:50:34.253",
+        "complete_trans": "My name is Stella.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:34.253 to 2025-06-17T15:50:36.253",
+        "complete_trans": "And your address?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:36.253 to 2025-06-17T15:50:38.253",
+        "complete_trans": "Number eight Pike Street, Seattle.",
+        "sentiment": "the given utterance falls under the \"neutral\" category as it simply states a location and does not express any specific emotion or intent."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:38.253 to 2025-06-17T15:50:40.253",
+        "complete_trans": "And your phone number?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:40.253 to 2025-06-17T15:50:47.253",
+        "complete_trans": "Four two five million three hundred and thirty six thousand seven hundred and seventy six.",
+        "sentiment": "the provided utterance does not contain any emotional or attitudinal information, so it falls under the category of 'neutral'. it seems to be a purely informational statement about a specific number."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:47.253 to 2025-06-17T15:50:49.253",
+        "complete_trans": "Will you be traveling alone?",
+        "sentiment": "the given utterance, \"will you be traveling alone?\", falls under the category of being a neutral statement. there is neither expressed satisfaction, frustration, confusion, rudeness, helpfulness nor urgency in this sentence. it's simply asking a question regarding someone's travel plans."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:49.253 to 2025-06-17T15:50:51.253",
+        "complete_trans": "I'm traveling with my husband.",
+        "sentiment": "the utterance \"i'm traveling with my husband\" is classified as a neutral statement. it does not convey any particular emotion or level of satisfaction, frustration, confusion, rudeness, helpfulness, or urgency."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:50:51.253 to 2025-06-17T15:50:54.253",
+        "complete_trans": "Shall I book your ticket on January 28th?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:57.253 to 2025-06-17T15:50:58.253",
+        "complete_trans": "All right.",
+        "sentiment": "the utterance \"all right\" can be categorized as a neutral statement. it does not indicate clear satisfaction, frustration, confusion, or urgency in this context. rudeness is also not present."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:50:58.253 to 2025-06-17T15:51:00.253",
+        "complete_trans": "This package is valid till when?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:00.253 to 2025-06-17T15:51:01.253",
+        "complete_trans": "For two month.",
+        "sentiment": "confusion"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:01.253 to 2025-06-17T15:51:02.253",
+        "complete_trans": "Great.",
+        "sentiment": "the utterance \"great.\" can be classified as a positive sentiment, which falls under the category of 'satisfaction'."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:02.253 to 2025-06-17T15:51:04.253",
+        "complete_trans": "What are all formalities needed to be done?",
+        "sentiment": "the utterance seems to indicate a request for information, which is typically a neutral interaction. however, there might be an undercurrent of frustration or confusion if the user feels overwhelmed by the required steps (formalities) and lacks clarity about them. so, it could also fit in the 'confusion' category. overall, it appears to be more leaning towards 'confusion'."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:04.253 to 2025-06-17T15:51:10.253",
+        "complete_trans": "You have to pay two hundred dollars with a copy of your proof and photograph.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:10.253 to 2025-06-17T15:51:13.253",
+        "complete_trans": "Is there a nonstop flight that I can take?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:13.253 to 2025-06-17T15:51:20.253",
+        "complete_trans": "Yes, speed airways that flight departs at six p.m. on Saturday morning and arrives at Singapore three p.m.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:21.253 to 2025-06-17T15:51:24.253",
+        "complete_trans": "That sounds better but it's a little longer.",
+        "sentiment": "satisfaction (with a hint of neutral)"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:24.253 to 2025-06-17T15:51:26.253",
+        "complete_trans": "Well, it's an eight hours long flight.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:26.253 to 2025-06-17T15:51:28.253",
+        "complete_trans": "Don't forget the time difference.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:28.253 to 2025-06-17T15:51:32.253",
+        "complete_trans": "Oh, yes, that's right.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:32.253 to 2025-06-17T15:51:34.253",
+        "complete_trans": "Shall I reserve a seat for you?",
+        "sentiment": "the utterance, \"shall i reserve a seat for you?\", can be classified as 'helpfulness'. this phrase is intended to provide assistance or help, indicating a positive and supportive interaction."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:34.253 to 2025-06-17T15:51:35.253",
+        "complete_trans": "Yes, please.",
+        "sentiment": "the utterance \"yes, please.\" is a neutral statement."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:35.253 to 2025-06-17T15:51:37.253",
+        "complete_trans": "How can I make the payment?",
+        "sentiment": "the given utterance falls under the category of 'neutral'. it's a straightforward question seeking information, and there is no apparent frustration or urgency in it."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:37.253 to 2025-06-17T15:51:40.253",
+        "complete_trans": "You can pay by card, cash or check.",
+        "sentiment": "the utterance is classified as \"neutral\"."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:40.253 to 2025-06-17T15:51:44.253",
+        "complete_trans": "Is it possible that I can pay online?",
+        "sentiment": "the utterance \"is it possible that i can pay online?\" can be classified as neutral. it's a straightforward question and doesn't indicate any specific emotional state or urgency."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:44.253 to 2025-06-17T15:51:46.253",
+        "complete_trans": "You can do that as well.",
+        "sentiment": "the utterance \"you can do that as well\" is classified as neutral."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:47.253 to 2025-06-17T15:51:50.253",
+        "complete_trans": "Just send me your count details via WhatsApp.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:51.253 to 2025-06-17T15:51:53.253",
+        "complete_trans": "When would you like to return?",
+        "sentiment": "the utterance \"when would you like to return?\" is categorized as 'neutral'. it doesn't express any particular emotion or urgency, but rather a question about scheduling an action."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:53.253 to 2025-06-17T15:51:55.253",
+        "complete_trans": "February 4th.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:51:55.253 to 2025-06-17T15:51:58.253",
+        "complete_trans": "Do you have an airline preference?",
+        "sentiment": "the utterance, \"do you have an airline preference?\", can be classified as 'neutral'. it is a straightforward question and does not indicate any specific emotion or urgency."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:58.253 to 2025-06-17T15:51:59.253",
+        "complete_trans": "No.",
+        "sentiment": "the utterance \"no\" can be categorized as neutral. it does not necessarily indicate satisfaction, frustration, confusion, or anything else without further context. however, it is important to note that a single word response can still carry various emotions based on the tone in which it was said."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:51:59.253 to 2025-06-17T15:52:01.253",
+        "complete_trans": "Any airline will be fine.",
+        "sentiment": "the provided utterance, \"any airline will be fine,\" falls under the category of neutral as it doesn't express any particular emotion or sentiment that would indicate satisfaction, frustration, confusion, or urgency. however, it might suggest a certain degree of indifference or lack of strong preference, but this is not explicitly stated and can be subjective to interpret."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:01.253 to 2025-06-17T15:52:02.253",
+        "complete_trans": "I'm not picky.",
+        "sentiment": "the utterance \"i'm not picky\" is classified as a neutral statement. it does not indicate satisfaction, frustration, confusion, or any particular emotion. however, without additional context, it is impossible to determine helpfulness, rudeness, or urgency."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:02.253 to 2025-06-17T15:52:04.253",
+        "complete_trans": "And what class would you like?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:04.253 to 2025-06-17T15:52:09.253",
+        "complete_trans": "Economy, business class, or first class?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:09.253 to 2025-06-17T15:52:12.253",
+        "complete_trans": "Economy, please.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:13.253 to 2025-06-17T15:52:16.253",
+        "complete_trans": "Okay, well there's a flight on the morning of the 4th.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:16.253 to 2025-06-17T15:52:20.253",
+        "complete_trans": "The cheapest we have is $700.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:20.253 to 2025-06-17T15:52:23.253",
+        "complete_trans": "Vouch, I was hoping to find something cheaper.",
+        "sentiment": "the utterance \"vouch, i was hoping to find something cheaper\" can be classified as 'satisfaction'. although the customer expresses a desire for lower prices, they are doing so in a neutral tone, showing that they have already found the product (implied by the use of \"i was hoping\"). however, their hope was not met, which suggests a certain level of dissatisfaction with the current price, but without any negative or frustrated connotations."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:23.253 to 2025-06-17T15:52:24.253",
+        "complete_trans": "My dates are flexible.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:24.253 to 2025-06-17T15:52:27.253",
+        "complete_trans": "Do you find a cheaper flight?",
+        "sentiment": "the given utterance, \"do you find a cheaper flight?\", falls under the category of 'neutral'. it is neither expressing satisfaction, frustration, confusion, rudeness, helpfulness nor urgency in this context."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:27.253 to 2025-06-17T15:52:28.253",
+        "complete_trans": "Let me check.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:28.253 to 2025-06-17T15:52:29.253",
+        "complete_trans": "Just a moment.",
+        "sentiment": "the utterance \"just a moment\" falls under the category of \"neutral\". it does not express any particular emotion, satisfaction, frustration, confusion, helpfulness, rudeness or urgency. it simply indicates that the person will be momentarily delayed in responding."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:29.253 to 2025-06-17T15:52:34.253",
+        "complete_trans": "There's a flight on the February 10th for $120.",
+        "sentiment": "the utterance is categorized as \"neutral\". it doesn't express any strong emotions, but it's also not entirely factual or helpful in the context of customer support where the agent might be expected to provide assistance regarding a problem or issue."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:34.253 to 2025-06-17T15:52:36.253",
+        "complete_trans": "That's much better.",
+        "sentiment": "satisfaction"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:36.253 to 2025-06-17T15:52:41.253",
+        "complete_trans": "But you have to change planes twice once in Texas and again in London.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:41.253 to 2025-06-17T15:52:44.253",
+        "complete_trans": "Is that the best you can do?",
+        "sentiment": "frustration"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:44.253 to 2025-06-17T15:52:45.253",
+        "complete_trans": "I'm afraid so.",
+        "sentiment": "the provided utterance, \"i'm afraid so,\" can be categorized as a sign of frustration or disappointment. however, it doesn't express strong emotions and could also be considered neutral in some contexts. therefore, i would classify it as \"frustration\" with a note that it could lean towards the neutral side depending on the broader conversation."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:52:45.253 to 2025-06-17T15:52:49.253",
+        "complete_trans": "If you'd like, I can book the ticket and seat as well.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:53.253 to 2025-06-17T15:52:56.253",
+        "complete_trans": "Can you tell me your email id?",
+        "sentiment": "the utterance \"can you tell me your email id?\" can be classified as neutral, as it does not express any specific emotional state or level of satisfaction, frustration, confusion, etc. however, depending on the context or tone, it could potentially indicate a need for assistance (urgency), but that's more inferred from the action requested rather than the tone or language used."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:56.253 to 2025-06-17T15:52:58.253",
+        "complete_trans": "Stellaratemail.com.",
+        "sentiment": "this utterance does not provide any sentiment or intention, it's simply a brand name and does not fall under any of the specified categories (satisfaction, frustration, neutral, confusion, helpfulness, rudeness, urgency)."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:52:58.253 to 2025-06-17T15:53:00.253",
+        "complete_trans": "You would receive the eTicket's details.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:00.253 to 2025-06-17T15:53:02.253",
+        "complete_trans": "Perfect, thank you.",
+        "sentiment": "the utterance \"perfect, thank you\" falls under the category of 'satisfaction'."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:02.253 to 2025-06-17T15:53:04.253",
+        "complete_trans": "It includes your flight confirmation number.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:04.253 to 2025-06-17T15:53:08.253",
+        "complete_trans": "When you check in at the airport, they will ask you to confirm the code.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:53:09.253 to 2025-06-17T15:53:14.253",
+        "complete_trans": "Okay, in case if I need to cancel the ticket, to whom should I contact?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:14.253 to 2025-06-17T15:53:17.253",
+        "complete_trans": "You need to contact us or Airways toll free number.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:53:17.253 to 2025-06-17T15:53:22.253",
+        "complete_trans": "All right, would I get refund if I cancel the ticket?",
+        "sentiment": "the utterance \"all right, would i get a refund if i cancel the ticket?\" is classified as 'neutral' as it expresses an inquiry without clear signs of satisfaction, frustration, confusion or urgency. however, the customer may be hoping for a positive response (refund), which could indicate a level of satisfaction if their question is answered affirmatively."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:22.253 to 2025-06-17T15:53:28.253",
+        "complete_trans": "No, you won't get refund but I can give you the voucher.",
+        "sentiment": "frustration"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:53:28.253 to 2025-06-17T15:53:30.253",
+        "complete_trans": "How long that voucher valid?",
+        "sentiment": "the utterance \"how long that voucher valid?\" can be classified as 'neutral'. the user is asking a straightforward question, but there is no indication of satisfaction, frustration, confusion, rudeness, or urgency in this message."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:30.253 to 2025-06-17T15:53:34.253",
+        "complete_trans": "One year validity, you can travel any destination.",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:34.253 to 2025-06-17T15:53:35.253",
+        "complete_trans": "Oh great.",
+        "sentiment": "the utterance \"oh great\" can be categorized as neutral, as it does not necessarily express a high level of satisfaction, frustration, or any other specific emotion. however, it could potentially indicate mild disappointment or resignation, but without additional context, it's hard to confirm this for certain."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:35.253 to 2025-06-17T15:53:44.253",
+        "complete_trans": "Due to pandemic travel destination requirements could affect your travel plan, we advise customers to check the email notifications always.",
+        "sentiment": "the utterance can be classified as \"neutral\". it is providing advice and precaution related to a current situation, but it does not express any strong emotions or urgency."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:44.253 to 2025-06-17T15:53:47.253",
+        "complete_trans": "Sure for all due, thank you.",
+        "sentiment": "the utterance \"sure for all due, thank you\" can be classified as 'neutral'. it does not express a high level of satisfaction, frustration, confusion, or urgency. however, it is polite and cooperative in nature, so it lacks elements of rudeness."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:53:47.253 to 2025-06-17T15:53:51.253",
+        "complete_trans": "Have a wonderful journey, thank you for choosing us.",
+        "sentiment": "satisfaction"
+    }
+]

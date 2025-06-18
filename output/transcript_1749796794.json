@@ -1,0 +1,422 @@
+[
+    {
+        "speaker": "Agent",
+        "timestamp": "11.4s to 16.7s",
+        "complete_trans": "Well, I have some time off from work this month and I was thinking of going to Singapore."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "16.7s to 18.0s",
+        "complete_trans": "That sound great."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "18.0s to 20.2s",
+        "complete_trans": "How long is your vacation?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "20.2s to 21.4s",
+        "complete_trans": "Just one week."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "21.4s to 23.4s",
+        "complete_trans": "Here's our Singapore brochure."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "23.4s to 25.2s",
+        "complete_trans": "We will arrange everything."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "25.2s to 27.0s",
+        "complete_trans": "Oh great."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "27.0s to 30.0s",
+        "complete_trans": "Have a look and see if there's a hotel you like."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "30.0s to 32.0s",
+        "complete_trans": "I like Hotel Hilton."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "32.0s to 34.8s",
+        "complete_trans": "It's expensive but I've been told it's very nice."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "34.8s to 37.2s",
+        "complete_trans": "I'm looking for beach view accommodation."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "37.2s to 43.2s",
+        "complete_trans": "Yes, some accommodations, we have recently prepared an amazing package for that."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "43.2s to 45.8s",
+        "complete_trans": "Could you please tell me the details of that package?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "45.8s to 47.0s",
+        "complete_trans": "Sure ma'am."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "47.0s to 50.8s",
+        "complete_trans": "In that package, you will get four nights and three days."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "56.8s to 58.8s",
+        "complete_trans": "Would you like to make the booking now?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "58.8s to 59.8s",
+        "complete_trans": "Yes please."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "59.8s to 62.8s",
+        "complete_trans": "I just need to take some personal information."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "62.8s to 65.8s",
+        "complete_trans": "May I know your name?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "65.8s to 67.8s",
+        "complete_trans": "My name is Stella."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "67.8s to 69.8s",
+        "complete_trans": "And your address?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "69.8s to 71.8s",
+        "complete_trans": "Number eight Pike Street, Seattle."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "71.8s to 73.8s",
+        "complete_trans": "And your phone number?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "73.8s to 80.8s",
+        "complete_trans": "Four two five million three hundred and thirty six thousand seven hundred and seventy six."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "80.8s to 82.8s",
+        "complete_trans": "Will you be traveling alone?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "82.8s to 84.8s",
+        "complete_trans": "I'm traveling with my husband."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "84.8s to 87.8s",
+        "complete_trans": "Shall I book your ticket on January 28th?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "90.8s to 91.8s",
+        "complete_trans": "All right."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "91.8s to 93.8s",
+        "complete_trans": "This package is valid till when?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "93.8s to 94.8s",
+        "complete_trans": "For two month."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "94.8s to 95.8s",
+        "complete_trans": "Great."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "95.8s to 97.8s",
+        "complete_trans": "What are all formalities needed to be done?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "97.8s to 103.8s",
+        "complete_trans": "You have to pay two hundred dollars with a copy of your proof and photograph."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "103.8s to 106.8s",
+        "complete_trans": "Is there a nonstop flight that I can take?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "106.8s to 113.8s",
+        "complete_trans": "Yes, speed airways that flight departs at six p.m. on Saturday morning and arrives at Singapore three p.m."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "114.8s to 117.8s",
+        "complete_trans": "That sounds better but it's a little longer."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "117.8s to 119.8s",
+        "complete_trans": "Well, it's an eight hours long flight."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "119.8s to 121.8s",
+        "complete_trans": "Don't forget the time difference."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "121.8s to 125.8s",
+        "complete_trans": "Oh, yes, that's right."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "125.8s to 127.8s",
+        "complete_trans": "Shall I reserve a seat for you?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "127.8s to 128.8s",
+        "complete_trans": "Yes, please."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "128.8s to 130.8s",
+        "complete_trans": "How can I make the payment?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "130.8s to 133.8s",
+        "complete_trans": "You can pay by card, cash or check."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "133.8s to 137.8s",
+        "complete_trans": "Is it possible that I can pay online?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "137.8s to 139.8s",
+        "complete_trans": "You can do that as well."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "140.8s to 143.8s",
+        "complete_trans": "Just send me your count details via WhatsApp."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "144.8s to 146.8s",
+        "complete_trans": "When would you like to return?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "146.8s to 148.8s",
+        "complete_trans": "February 4th."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "148.8s to 151.8s",
+        "complete_trans": "Do you have an airline preference?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "151.8s to 152.8s",
+        "complete_trans": "No."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "152.8s to 154.8s",
+        "complete_trans": "Any airline will be fine."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "154.8s to 155.8s",
+        "complete_trans": "I'm not picky."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "155.8s to 157.8s",
+        "complete_trans": "And what class would you like?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "157.8s to 162.8s",
+        "complete_trans": "Economy, business class, or first class?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "162.8s to 165.8s",
+        "complete_trans": "Economy, please."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "166.8s to 169.8s",
+        "complete_trans": "Okay, well there's a flight on the morning of the 4th."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "169.8s to 173.8s",
+        "complete_trans": "The cheapest we have is $700."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "173.8s to 176.8s",
+        "complete_trans": "Vouch, I was hoping to find something cheaper."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "176.8s to 177.8s",
+        "complete_trans": "My dates are flexible."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "177.8s to 180.8s",
+        "complete_trans": "Do you find a cheaper flight?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "180.8s to 181.8s",
+        "complete_trans": "Let me check."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "181.8s to 182.8s",
+        "complete_trans": "Just a moment."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "182.8s to 187.8s",
+        "complete_trans": "There's a flight on the February 10th for $120."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "187.8s to 189.8s",
+        "complete_trans": "That's much better."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "189.8s to 194.8s",
+        "complete_trans": "But you have to change planes twice once in Texas and again in London."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "194.8s to 197.8s",
+        "complete_trans": "Is that the best you can do?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "197.8s to 198.8s",
+        "complete_trans": "I'm afraid so."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "198.8s to 202.8s",
+        "complete_trans": "If you'd like, I can book the ticket and seat as well."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "206.8s to 209.8s",
+        "complete_trans": "Can you tell me your email id?"
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "209.8s to 211.8s",
+        "complete_trans": "Stellaratemail.com."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "211.8s to 213.8s",
+        "complete_trans": "You would receive the eTicket's details."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "213.8s to 215.8s",
+        "complete_trans": "Perfect, thank you."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "215.8s to 217.8s",
+        "complete_trans": "It includes your flight confirmation number."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "217.8s to 221.8s",
+        "complete_trans": "When you check in at the airport, they will ask you to confirm the code."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "222.8s to 227.8s",
+        "complete_trans": "Okay, in case if I need to cancel the ticket, to whom should I contact?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "227.8s to 230.8s",
+        "complete_trans": "You need to contact us or Airways toll free number."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "230.8s to 235.8s",
+        "complete_trans": "All right, would I get refund if I cancel the ticket?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "235.8s to 241.8s",
+        "complete_trans": "No, you won't get refund but I can give you the voucher."
+    },
+    {
+        "speaker": "Agent",
+        "timestamp": "241.8s to 243.8s",
+        "complete_trans": "How long that voucher valid?"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "243.8s to 247.8s",
+        "complete_trans": "One year validity, you can travel any destination."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "247.8s to 248.8s",
+        "complete_trans": "Oh great."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "248.8s to 257.8s",
+        "complete_trans": "Due to pandemic travel destination requirements could affect your travel plan, we advise customers to check the email notifications always."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "257.8s to 260.8s",
+        "complete_trans": "Sure for all due, thank you."
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "260.8s to 264.8s",
+        "complete_trans": "Have a wonderful journey, thank you for choosing us."
+    }
+]

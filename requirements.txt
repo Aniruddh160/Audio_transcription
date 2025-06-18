@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydub
+pyaudio
+python-multipart
+pyannote.audio
+torch
+torchaudio
+transformers
+faster-whisper
+scipy
+numpy
+soundfile
+huggingface-hub

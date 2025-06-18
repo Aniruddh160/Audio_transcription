@@ -1,0 +1,14 @@
+[
+    {
+        "speaker": "Agent",
+        "timestamp": "from 2025-06-17T15:14:10.335 to 2025-06-17T15:14:14.975",
+        "complete_trans": "What is the best advice you've ever had or received from my father?",
+        "sentiment": "neutral"
+    },
+    {
+        "speaker": "Customer",
+        "timestamp": "from 2025-06-17T15:14:14.975 to 2025-06-17T15:14:18.655",
+        "complete_trans": "I'd rather be stupid than pretend to be intelligent.",
+        "sentiment": "the provided utterance does not directly indicate a specific emotion or sentiment, so it can be classified as 'neutral'. however, this statement might suggest a degree of dissatisfaction or frustration with the current situation, but it is not clear from this one sentence alone."
+    }
+]

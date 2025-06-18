@@ -1,0 +1,16 @@
+[
+    {
+        "speaker": "Agent",
+        "start_timestamp": "2025-06-16T16:26:40.750",
+        "end_timestamp": "2025-06-16T16:26:45.390",
+        "complete_trans": "What is the best advice you've ever had or received from my father?",
+        "additional_info": {}
+    },
+    {
+        "speaker": "Customer",
+        "start_timestamp": "2025-06-16T16:26:45.390",
+        "end_timestamp": "2025-06-16T16:26:49.070",
+        "complete_trans": "I'd rather be stupid than pretend to be intelligent.",
+        "additional_info": {}
+    }
+]
