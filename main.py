@@ -181,12 +181,15 @@ def diarize_and_transcribe(file_path: str) -> list:
             speaker_str = str(speaker)
             if turn.start <= midpoint <= turn.end:
                 output.append({
-                    "speaker": speaker_labels.get(speaker_str, speaker_str),
-                    "timestamp": f"from {(base_time + timedelta(seconds=seg_start)).isoformat(timespec='milliseconds')} to {(base_time + timedelta(seconds=seg_end)).isoformat(timespec='milliseconds')}",
-                    "complete_trans": text,
-                    "sentiment": analyze_sentiment(text)
-                })
+    "speaker": speaker_labels.get(speaker_str, speaker_str),
+    "start_timestamp": (base_time + timedelta(seconds=seg_start)).isoformat(timespec='milliseconds'),
+    "end_timestamp": (base_time + timedelta(seconds=seg_end)).isoformat(timespec='milliseconds'),
+    "complete_trans": text,
+    "sentiment": analyze_sentiment(text),
+    "additional_info": {}
+})
                 break
+            
 
     os.makedirs("output", exist_ok=True)
     output_path = f"output/transcript_{int(time.time())}.json"
