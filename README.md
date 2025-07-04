@@ -14,7 +14,6 @@ How to access the entire application:
 6. Provide a '.wav' file to diarize and transcribe.
 7. Wait for a few minutes and the ouput can be seen as a JSON below.
                                                         
+For HUGGINGFACE token : The fix is go to HuggingFace and create a token for use it in the program by decclaring it as an environment variable:
 
-
-
-                                                    
+$env:HF_TOKEN="paste the token here", use this command in powershell in CLI.
